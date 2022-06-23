@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cruzy-ios",
+  "private_key_id": "688bc1698a62690e4e911025e29b9078d793cd79",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC49LgGpuOtE3Pe\n81pW2fx8PtJ3BBjTw3H5DgRuVii8etMjmcBy1bWYSZNeLp72J5JjAkH/u1EssgDA\n3a+XGmq/w5Svb1SW9F0ybGvBFWN08sll3xN2f462pspDby7Al34zGSM6HTkb75jp\nEGqSZ4rwiL9g6C6X6oiYSZ5aS2kZVUjI8hAIYevRHSCZ9V0Dry6FbiWfVm0rCo+y\n/JVXI8hydWGHABsexX0SeQtnZZmF+YGQEQynDAPIOPa3Yct4izRw8HUdjNn4xfHL\nhXgm1ATnaoU7Oc/t1QEK5CAATF5volbRY5mzM30xgvD+xxj5roQhOH6mpneuo4Oq\nIKiXQEAbAgMBAAECggEAAJalqMzmzNh7e6JkNxaK5MTw6IBtz8LtS/YT+NEa7rnT\nQNVSxdl98zirb/FtIClSyOMU6Yxoqr+utqlMoqZuu2OjJPwpn7aRqIw2w0SP8GxL\nE5LkMkls5XnD0mT2KFlcse3s2ucTM5ufwxMWjwSUMTdsxQb64dQDvBXUYtduFuWY\nSVZQHDb9yg7VUkHMjqEjBk5I4elru+oiROA4aJa2A12pJFYYNpwLR8D4dg9DEq3g\nJE1tRBlfowb+VCEyXfYN6C3tCUesZ+rwhK+zEStyXQJ7FtN+xwyZcGg1PtYmi1ml\noqpliG9Yz9kYei23aw4izUjdtlPda52JsNdMXl54DQKBgQD9yyH3V0RxTuKe1VUg\nV4H+A3FlBER+k5TOWmPbOmVg7GWfcZMwBsHqEwrTMXbQJQqXVFXoOjtsOFZsCJe3\nAnV0I5vhkQefrMYNKJiKPxlZ1weybgjdY+qeK3bgnNoekR+eW+1JDW2KBxr3+kv2\nuQYs4HTkN+8LYWBMWHPpBXuy1wKBgQC6kF/pd+a5DWe/6R1wjwJIh1FDcE1do8DU\nigzEneDZuYAOXLaeSSretkcRZyNUDBkt7euNp+zLGhtmBXp6DTYJ35sDT7R4s4/P\nbOu7RWi2D1IHxa6pb0BrUpCHJ9qbLYW6xikL0bgkTt+8BATe8xauHpJDqN7YIcJF\nKuhd6nD4XQKBgQDqGA4yeRo2cY7y9s/YTx8mT8KubKtJHZOqaxGkS07rgeGSmk4r\nhHAlGn9noj53a1NDlpTO6beZ8LU2XQ6jze7Mu3OzMfUYQWNFC+b3zY/yoDcHTBt9\nKgZk8q5qLAO9IhtKFHzgXzRkln03snWTE8MwbbEkOLuTgbQzd3siut4IbQKBgFPq\nOJnk6ox18SKrEijcymQhKXYx/zqNO2DeL1wIv2hvPaA4J5QOyQ+f4Vt8jrFxN6on\nB/qRe7rnJUfAUxSu+I18XFci9MQN0DO2hFmZoL2zKmyAiE2B0vHzEzsXvAZsdWhL\nVY8RZ8g9CfmhvScjJCJxccypGoMQvDcsU5RarTGpAoGBAIvihNd1mcguA5Xsg4KY\nH/CeUmXyEStXv3MTzof+jYP7jJaWqsgImgHK21sEbicQ7LwWnKP25vlss6bFwp5C\nNB8h+f2skx/HTi0gIf4mTy1lPJD1POl9SKubujHHFLOZmN7dbhaLhwQ/7vj4h2TH\nSaVjT9bT2XfRbXkCPZQUI7Em\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets@cruzy-ios.iam.gserviceaccount.com",
+  "client_id": "115105147115011723654",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40cruzy-ios.iam.gserviceaccount.com"
+}
